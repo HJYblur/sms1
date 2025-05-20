@@ -1,6 +1,6 @@
 [core]
     analytics = false
     autostage = true
-    remote = origin
-['remote "origin"']
-    url = https://github.com/HJYblur/sms1
+    remote = mylocalremote
+['remote "mylocalremote"']
+    url = /Users/Lemon/remotedvc
